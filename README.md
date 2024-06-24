@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this project, I implemented the k-means algorithm, an unsupervised learning technique. Unlike supervised learning, where the model learns from labeled data, unsupervised learning involves finding hidden patterns or intrinsic structures in input data. The k-means algorithm is particularly useful for clustering, which groups data points into distinct clusters based on their similarities.
+In this project, I implemented the k-means algorithm, an unsupervised learning technique. Unlike supervised learning, unsupervised learning involves finding hidden patterns or intrinsic structures in input data. The k-means algorithm is particularly useful for clustering, which groups data points into distinct clusters based on their similarities.
 
 I focused on clustering text documents from Wikipedia using k-means. Throughout the project, I explored the effects of random initialization, varied the number of clusters, and evaluated the clustering results both quantitatively and qualitatively. The entire implementation was done from scratch without using pre-implemented classes from libraries like scikit-learn.
 
