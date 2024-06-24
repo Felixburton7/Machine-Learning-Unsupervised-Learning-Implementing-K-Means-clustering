@@ -1,5 +1,6 @@
 
-## ML-Unsupervised-Learning - Implementing k-means with Text Data, and evaluating the clustering resuls from Wikipedia. 
+
+## Unsupervised Learning: Implementing k-means for Text Data Clustering and Evaluation with Wikipedia Articles
 
 ### Overview
 
