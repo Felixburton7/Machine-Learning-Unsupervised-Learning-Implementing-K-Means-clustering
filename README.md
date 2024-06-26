@@ -4,9 +4,13 @@
 
 ### Overview
 
-In this project, I implemented the k-means algorithm, an unsupervised learning technique. Unlike supervised learning, unsupervised learning involves finding hidden patterns or intrinsic structures in input data. The k-means algorithm is particularly useful for clustering, which groups data points into distinct clusters based on their similarities.
+This project showcases the implementation of the k-means algorithm, a core unsupervised learning technique, specifically applied to clustering text documents from Wikipedia. Unlike supervised learning, which depends on labeled data, unsupervised learning involves discovering hidden patterns or intrinsic structures within unlabeled data. The k-means algorithm is particularly effective for clustering, grouping data points into distinct clusters based on their similarities.
 
-I focused on clustering text documents from Wikipedia using k-means. Throughout the project, I explored the effects of random initialization, varied the number of clusters, and evaluated the clustering results both quantitatively and qualitatively. The entire implementation was done from scratch without using pre-implemented classes from libraries like scikit-learn.
+The project involved several key aspects:
+
+Text Preprocessing: Converting text documents into numerical feature vectors using techniques like TF-IDF.
+Algorithm Implementation: Developing the k-means algorithm from scratch, covering initialization, assignment, and update steps.
+Experimental Analysis: Exploring the effects of random initialization, varying the number of clusters, and evaluating clustering results both quantitatively and qualitatively.
 
 ### Technology Used
 
