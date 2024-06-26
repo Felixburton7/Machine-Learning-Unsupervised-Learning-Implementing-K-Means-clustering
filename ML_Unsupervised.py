@@ -7,7 +7,6 @@
 # For manipulating the data arrays, the `numpy` library is utilized. 
 # See the following tutorial for more information on `numpy`.
 
-# **[NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html)**
 
 # The project involves:
 
