@@ -8,9 +8,9 @@ This project showcases the implementation of the k-means algorithm, a core unsup
 
 The project involved several key aspects:
 
-**Text Preprocessing:** Converting text documents into numerical feature vectors using techniques like TF-IDF.
-**Algorithm Implementation:** Developing the k-means algorithm from scratch, covering initialization, assignment, and update steps.
-**Experimental Analysis:** Exploring the effects of random initialization, varying the number of clusters, and evaluating clustering results both quantitatively and qualitatively.
+- **Text Preprocessing:** Converting text documents into numerical feature vectors using techniques like TF-IDF.
+- **Algorithm Implementation:** Developing the k-means algorithm from scratch, covering initialization, assignment, and update steps.
+- **Experimental Analysis:** Exploring the effects of random initialization, varying the number of clusters, and evaluating clustering results both quantitatively and qualitatively.
 
 ### Technology Used
 
