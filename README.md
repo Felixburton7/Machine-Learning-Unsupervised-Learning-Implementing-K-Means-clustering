@@ -6,7 +6,7 @@
 
 This project showcases the implementation of the k-means algorithm, a core unsupervised learning technique, specifically applied to clustering text documents from Wikipedia. Unlike supervised learning, which depends on labeled data, unsupervised learning involves discovering hidden patterns or intrinsic structures within unlabeled data. The k-means algorithm is particularly effective for clustering, grouping data points into distinct clusters based on their similarities.
 
-The project involved several key aspects:
+The project involved several key components:
 
 - **Text Preprocessing:** Converting text documents into numerical feature vectors using techniques like TF-IDF.
 - **Algorithm Implementation:** Developing the k-means algorithm from scratch, covering initialization, assignment, and update steps.
