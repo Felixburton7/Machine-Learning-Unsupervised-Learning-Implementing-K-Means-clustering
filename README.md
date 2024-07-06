@@ -1,6 +1,6 @@
 
 
-## Unsupervised Learning: Implementing k-means for Text Data Clustering and Evaluation with Wikipedia Articles
+## Unsupervised Learning: Implementing K-means for Text Data Clustering and Evaluation with Wikipedia Articles
 
 ### Overview
 
