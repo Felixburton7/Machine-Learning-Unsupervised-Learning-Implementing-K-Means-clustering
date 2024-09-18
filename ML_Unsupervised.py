@@ -234,6 +234,3 @@ visualize_document_clusters(wiki, tf_idf, all_centroids[k], all_cluster_assignme
 k = 100
 num_small_clusters = (np.bincount(all_cluster_assignment[k]) < 44).sum()
 print(f'Number of small clusters (fewer than 44 articles): {num_small_clusters}')
-```
-
-This code is structured as a project that implements the k-means clustering algorithm from scratch, clusters text data, evaluates the clustering, and visualizes the results. It covers initialization, iteration, convergence checking, and multiple runs to find the best clustering based on heterogeneity. The project concludes with visualizing the clusters and examining the distribution of cluster sizes.
