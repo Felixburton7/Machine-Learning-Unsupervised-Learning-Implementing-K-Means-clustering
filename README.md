@@ -138,3 +138,5 @@ To accomplish this project, I used the following technologies:
 Evaluate the clustering results both quantitatively (e.g., using inertia) and qualitatively (e.g., by examining cluster contents).
 
 By following these steps, I successfully implemented and evaluated the k-means algorithm for clustering text data from Wikipedia. The project provided insights into the clustering process and the impact of various factors such as initialization and the number of clusters.
+
+
